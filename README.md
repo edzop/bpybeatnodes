@@ -1,2 +1,2 @@
 # bpybeatnodes
-blender library for parametric shape generation
+blender library for parametric shape modeling and generation
