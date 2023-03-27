@@ -1,15 +1,11 @@
 # bpybeatnodes
 blender library for parametric shape modeling and generation
 
-
-
 ## shape_modifiers.blend
 
 This blend file contains several geometry node trees for the purpose of modifying shapes in an interesting and parametric way. 
 
 ### RandomExtrudeHole
-
-
 
 | Parameter | Description |
 | ----------- | ----------- |
@@ -18,3 +14,11 @@ This blend file contains several geometry node trees for the purpose of modifyin
 | HoleScale | Scale of holes |
 
 ![RandomExtrudeHole](images/random_extrude_hole.png)
+
+
+### ShrinkArray
+
+### TopCut
+
+### RandomFaceDelete
+
