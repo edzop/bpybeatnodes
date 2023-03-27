@@ -18,11 +18,22 @@ This blend file contains several geometry node trees for the purpose of modifyin
 
 ### ShrinkArray
 
+work in progress
+
 ### TopCut
+
+work in progress
 
 ### RandomFaceDelete
 
+work in progress
 
+## wave_generator.blend
+
+### frequency_wave
+Variable frequency wave generator
+
+![frequency_wave](images/frequency_wave.png)
 
 ## roto_knots.blend
 
