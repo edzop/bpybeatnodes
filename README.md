@@ -2,7 +2,12 @@
 blender library for parametric shape modeling and generation
 
 
-## RandomExtrudeHole
+
+## shape_modifiers.blend
+
+This blend file contains several geometry node trees for the purpose of modifying shapes in an interesting and parametric way. 
+
+### RandomExtrudeHole
 
 
 
