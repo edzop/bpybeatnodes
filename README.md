@@ -22,3 +22,8 @@ This blend file contains several geometry node trees for the purpose of modifyin
 
 ### RandomFaceDelete
 
+
+
+## roto_knots.blend
+
+![roto_knots](images/roto_knots.png)
