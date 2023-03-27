@@ -15,6 +15,17 @@ This blend file contains several geometry node trees for the purpose of modifyin
 
 ![RandomExtrudeHole](images/random_extrude_hole.png)
 
+### doo_sabin
+
+Geometry nodes implementation of doo_sabin
+
+| Parameter | Description |
+| ----------- | ----------- |
+| eyesize | size of face shrinkage |
+| DeleteSelection | items for deletion - 0 for none, 1 for all, or can select a vertex group. |
+
+![RandomExtrudeHole](images/doo_sabin.png)
+
 
 ### ShrinkArray
 
@@ -38,3 +49,26 @@ Variable frequency wave generator
 ## roto_knots.blend
 
 ![roto_knots](images/roto_knots.png)
+
+
+## animation_helper.blend
+
+### timePong
+A utility nodetree to simplify repeating animation cycles. 
+| Parameter | Description |
+| ----------- | ----------- |
+| LoopFrames | Number of frames per repeat cycle |
+| Min   | Min value in repeat cycle |
+| Max | Max value in repeat cycle
+
+
+## environment_worlds.blend
+
+- SunSky_Noon
+- SunSky_Sunset
+
+## beat_helper.blend
+
+### Beat_Mapper
+A utility node group to assist mapping sound frequencies to animations. 
+
