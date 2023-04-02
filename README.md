@@ -13,7 +13,7 @@ This blend file contains several geometry node trees for the purpose of modifyin
 | ExtrudeLength | Length of extrusion |
 | HoleScale | Scale of holes |
 
-![RandomExtrudeHole](images/random_extrude_hole.png)
+![RandomExtrudeHole](unit_tests/images/unit_tests-RandomExtrudeHole.png)
 
 ### doo_sabin
 
@@ -24,7 +24,7 @@ Geometry nodes implementation of doo_sabin
 | eyesize | size of face shrinkage |
 | DeleteSelection | items for deletion - 0 for none, 1 for all, or can select a vertex group. |
 
-![RandomExtrudeHole](images/doo_sabin.png)
+![RandomExtrudeHole](unit_tests/images/unit_tests-doo_sabin.png)
 
 
 ### ShrinkArray
@@ -44,12 +44,14 @@ work in progress
 ### frequency_wave
 Variable frequency wave generator
 
-![frequency_wave](images/frequency_wave.png)
+![frequency_wave](unit_tests/images/unit_tests-freq_1.png)
+
+
+![frequency_wave](unit_tests/images/unit_tests-freq_2.png)
 
 ## roto_knots.blend
 
-![roto_knots](images/roto_knots.png)
-
+![roto_knots](unit_tests/images/unit_tests-roto_knot.png)
 
 ## animation_helper.blend
 
@@ -75,5 +77,5 @@ A utility node group to assist mapping sound frequencies to animations.
 
 ## rotate_extrude.blend
 
-![RandomExtrudeHole](images/rotate_extrude.png)
+![RandomExtrudeHole](unit_tests/images/unit_tests-Extrude_Rotate.png)
 
